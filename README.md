@@ -5,6 +5,7 @@ This project is an **interactive Power BI dashboard** that analyzes product cate
 
 ## 🖼️ Dashboard Preview  
 ![Sales Dashboard](page_1.jpg)
+![Page 2](page_2.jpg)
 
 ## 🚀 Features  
 - **Sales and Profit Analysis** – Tracks total sales, profit, and shipping costs.  
