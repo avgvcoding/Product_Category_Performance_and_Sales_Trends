@@ -4,7 +4,7 @@
 This project is an **interactive Power BI dashboard** that analyzes product category performance, sales trends, and profitability. It provides insights into sales, shipping costs, and top-selling products using dynamic visualizations.
 
 ## 🖼️ Dashboard Preview  
-![Sales Dashboard](dashboard-image.png)
+![Sales Dashboard](page_1.jpg)
 
 ## 🚀 Features  
 - **Sales and Profit Analysis** – Tracks total sales, profit, and shipping costs.  
